@@ -1,0 +1,45 @@
+Q.1 Given an array of size N count and print the frequency of each number.
+    
+    Input:
+    N = 6
+    arr = {1, 2, 3, 3, 2, 1}
+    Output: 
+    1 2
+    2 2
+    3 2
+
+Q.2 Given an array of size N print the number whose frequency is highest and whose is lowest.
+
+  Input:
+  N = 5
+  arr = {2, 3, 2, 2, 5};
+  Output:
+  Highest: 2
+  Lowest: 3 (or 5 will also be accepted)
+
+Q.3 Rotate the first part of the array.
+
+    Input: 
+    arr = {1, 2, 3, 4, 5}
+    Output:
+    arr = {3, 2, 1, 4, 5}
+
+    Input: 
+    arr = {1, 2, 3, 4, 5, 6}
+    Output:
+    arr = {3, 2, 1, 4, 5, 6}
+
+Q.4 Sort the second half of the array.
+
+    Input:
+    arr = {4, 2, 1, 7, 5}
+    Output:
+    arr = {4, 2, 1, 5, 7}
+
+Q.5 Sort the first half of the array in Ascending order and second half in Descending Order.
+
+    Input:
+    arr = {6, 5, 4, 1, 2, 3}
+    Output:
+    arr = {4, 5, 6, 3, 2, 1}
+    
